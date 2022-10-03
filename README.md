@@ -17,9 +17,9 @@
 <img src ="https://img.shields.io/badge/GITKRAKEN-179287.svg?&style=for-the-badge&logo=GITKRAKEN&logoColor=white"">
 <img src ="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src ="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</p>
 
-
-<br/>
+<br>
                                                                                                       
                                                                                                    
 
@@ -30,4 +30,9 @@
   
 ![Stats Overview](https://raw.githubusercontent.com/yura0302/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/yura0302/github-stats-transparent/output/generated/languages.svg)
-</h3>
+</h3></p>
+
+<br>
+
+
+ [![yura0302's github activity graph](https://activity-graph.herokuapp.com/graph?username=yura0302&theme=xcode)](https://github.com/soyeon207/github-readme-activity-graph)
