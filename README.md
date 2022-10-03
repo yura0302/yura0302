@@ -1,6 +1,6 @@
 <h3 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fugaz+One&size=24&pause=1000&color=FFC4C4&center=true&vCenter=true&multiline=true&width=435&lines=%E2%9D%A4%EF%B8%8F+Hi+there%2C++Good+to+see+you++%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fugaz+One&size=24&pause=1000&color=F7CE68&center=true&vCenter=true&multiline=true&width=435&lines=%E2%9D%A4%EF%B8%8F+Hi+there%2C++Good+to+see+you++%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 <br>
 
