@@ -26,8 +26,8 @@
 <p align="center">
 <a href='https://github.com/yura0302/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/yura0302/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](github-readme-stats.vercel.app/api/top-langs/?username={yura0302}&langs_count=4)
+![](https://github.com/yura0302/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/yura0302/github-stats-transparent/blob/output/generated/languages.svg)
                  
 </h3></p>
 
