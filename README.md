@@ -24,10 +24,10 @@
 
 <h3 align="center">📊 Github Stats 📊
 <p align="center">
-<a href='https://github.com/yura0302/github-stats-trans-parent'>
+<a href='https://github.com/yura0302/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/yura0302/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/yura0302/github-stats-transparent/output/generated/languages.svg)
+![Most Used Languages](github-readme-stats.vercel.app/api/top-langs/?username={yura0302}&langs_count=4)
                  
 </h3></p>
 
