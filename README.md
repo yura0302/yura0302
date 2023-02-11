@@ -34,4 +34,4 @@
 <br>
 
 
- [![yura0302's github activity graph](https://activity-graph.herokuapp.com/graph?username=yura0302&theme=xcode)](https://github.com/soyeon207/github-readme-activity-graph)
+[![yura0302's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yura0302&theme=github-compact)](https://github.com/yura0302/github-readme-activity-graph)
