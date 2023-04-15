@@ -17,11 +17,7 @@
 <img src ="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src ="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </p>
-<br>
-<h3 align="center">📗 Velog Post 📗
-<p align="center">                                                                                                 
-    
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yura0302)](https://velog.io/@yura0302)                                                                                                                                               
+                                                                                                                         
 </h3></p>                                                                                                  
 <br>
 
