@@ -3,7 +3,7 @@
 # Hi there, I'm Yura👋
 
 ## Projects
-- [Techeer-Market, 중고거래 서비스](https://github.com/Techeer-market) / FrontEnd / '23.03 ~
+- [Techeer-Market, 중고거래 서비스](https://github.com/Techeer-market) / FrontEnd / '23.03 ~ 24.02
 - [Crop-Doctor, 작물 병해 진단 서비스](https://github.com/S-V-23-BootCamp-Team-F) / FrontEnd / '22.12 ~'23.02
 - [LetterMan, 비대면 편지공유 서비스](https://github.com/2022-SN-AI-Pre-Internship-Team-D/letterman) / FrontEnd / '22.08 ~ '22.10
 
